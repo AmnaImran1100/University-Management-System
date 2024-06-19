@@ -1,0 +1,7 @@
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\bin\Debug\UAMSListInClass.exe.config
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\bin\Debug\UAMSListInClass.exe
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\bin\Debug\UAMSListInClass.pdb
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\obj\Debug\UAMSListInClass.csproj.AssemblyReference.cache
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\obj\Debug\UAMSListInClass.csproj.CoreCompileInputs.cache
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\obj\Debug\UAMSListInClass.exe
+C:\University\Semester2\Week 5\UAMSListInClass\UAMSListInClass\obj\Debug\UAMSListInClass.pdb
